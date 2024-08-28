@@ -1,0 +1,199 @@
+interruption: sự gián đoạn
+contain: chứa
+occured: xảy ra
+psycho: some one get crazy
+frightened: sợ sệt
+cool chick: chỉ những cô gái luôn giả tạo với bạn
+lame guys: chỉ mấy thằng vớ vẩn
+handful: chỉ ai đó làm mình khó chịu, bực mình
+insane: điên cuồng
+reckless: liều lĩnh
+nasty scar: vết sẹo xấu xí
+exceptional: đặc biệt, phi thường
+procrastination: sự trì hoãn
+diploma - degree: bằng cấp
+interactive: tương tác
+brought: đem lại
+transmit: truyền phát
+retrieve: lấy, gọi ra
+workload: khối lượng công việc
+quality insurance: đảm bảo chất lượng
+perform: thực hiện
+specialist, expert: chuyên gia
+analyst: nhà phân tích
+assistant: trợ lý
+possession: chiếm hữu, sở hữu
+refer: đề cập, tham khảo
+antecedent: tiền lệ
+enhances: tăng cường
+appealing: hấp dẫn
+combines: kết hợp
+enable: cho phép
+pinpoint: xác định
+appropriate: phù hợp, trân trọng
+advantage: thuận lợi
+proliferating: sinh sôi nảy nở
+improve: cải thiện
+glitch: trục trặc
+flaw: lỗ hổng
+victim: nạn nhân
+detect: phát hiện
+innocent: người vô tội
+reliability: tin cậy, chắc chắn
+behavior: hành vi
+ensure: đảm bảo
+Typically: tiêu biểu
+defect: khuyết điểm
+sufficient: hợp lý
+demand: yêu cầu
+certification: chứng nhận
+exhaustive: toàn diện
+consider: coi như
+exponencially: nhanh chóng
+priciple: nguyên tắc
+instead: thay vì
+optimal: tối ưu
+risk: rủi ro
+opinion: ý kiến
+likely: rất có thể
+cause: gây ra
+realize: nhận ra
+candidate: ứng viên
+fluency: lưu loát
+conprehension: bao quát
+adapted: thích nghi
+iceberd: băng trôi
+oasis: ốc đảo
+pond: cái ao
+glacier: sông băng
+cruise: du thuyền
+shelter: nơi chú ẩn
+probably: có lẽ
+definitely: chắc chắn
+confused: bối rối
+curve: đường cong
+navigate: điều hướng 
+intergration: tích hợp 
+Infrastructure: cơ sở hạ tầng
+whether: liệu
+incrementally: từng bước
+specific: cụ thể
+notice: để ý
+verbose: dài dòng, rườm rà
+summary: tóm tắt
+metioned: được nhắc đến
+proficient: thành thạo
+snippet: đoạn trích
+reusable: tái sử dụng
+distribution: sự phân phối
+modify: thay đổi
+release: tung ra thị trường 
+addition: bên cạnh
+climate: khí hậu
+determine: quyết tâm
+usable: dùng được
+properly: đúng cách
+proper: thích hợp
+amount: số lượng
+several: một số, một vài
+various: nhiều
+affect: ảnh hưởng
+even: thậm chí
+purpose: mục đích
+moderate: kiểm duyệt
+conduct: tiến hành
+pertain to: liên quan đến
+rule of order: quy tắc trật tự
+retain: giữ lại
+unique: độc nhất
+encourages - incentivizing: khuyến khích
+reliable: đáng tin cậy
+admissions: tuyển sinh
+individual: cá nhân
+obtain: đạt được
+relevant: liên quan
+sector: lĩnh vực
+council: hội đồng
+institutions: tổ chức
+discuss: bàn luận
+posed: đặt ra
+familiar: thân thuộc
+derive: nguồn gốc
+fuel: đẩy (nhanh)
+emissions: khí thải
+artificial: nhân tạo
+archive: lưu trữ
+entire: toàn bộ
+published: được phát hành
+particular: cụ thể
+eligible: đạt chuẩn
+consumer: người tiêu dùng
+commercial: thuộc về thương mại
+inflation: lạm phát
+brief: ngắn gọn
+evaluates: đánh giá
+perspective: quan điểm
+supply chains: chuỗi cung ứng
+allie: đồng minh
+policymakers: các nhà hoạch định chính sách
+crisis: khủng hoảng
+congress: quốc hội
+argues: tranh luận
+scholar: học giả
+fellows: nghiên cứu sinh
+asset: tài sản
+valuable: quý giá
+mood: tâm trạng
+huge: to lớn
+whether - khi đứng đầu câu: cho dù, - trong câu: liệu
+beliefs: niềm tin
+dusting off something: phủi bụi
+literally: theo đúng nghĩa đen
+maximum capability: hiệu suất tối đa
+accomplish: hoàn thành, mang lại, làm xong
+focus solely on it: tập trung hoàn toàn vào nó
+pull out: lấy, kéo, nhổ ra
+piece of paper: một tờ giấy
+research: nghiên cứu
+nutrients: dưỡng chất
+involve: liên quan
+persue: theo đuổi
+invest: đầu tư
+bootleg: lậu
+ethic: đạo đức
+ethical standard: tiêu chuẩn đạo đức
+integrity: sự liêm khiết, sự chính trực
+ownership: quyền sở hữu
+plagiarism: đạo văn
+professional judgement: đánh giá chuyên môn
+public interest: lợi ích cộng đồng 
+welfear: phúc lợi
+permisson: sự cho phép
+be subject to disciplinary action: bị xử lý kỷ luật
+comply with: tuân theo
+be deceptive: dối trá, lừa đảo
+defend the principle: bảo vệ nguyên tắc
+trademark: thương hiệu
+obey the law: tuân theo luật
+unethical: vô đạo đức
+violate copyright law: luật vi phạm bản quyền
+violate: xâm phạm, vi phạm
+withhold information: giữ kín thông tin
+invade: xâm chiếm, xâm lược
+implementation: việc triển khai
+implement: thực thi, thực hiện
+formalize: chính thức hóa
+resize: điều chỉnh lại
+specific: cụ thể, riêng biệt
+concern: bận tâm, quan tâm
+accusation: lời buộc tội
+
+- get the most out of + something: tận dụng     	tối đa cái gì đó
+
+
+* Phía sau who luôn là động từ
+* Phía sau whom thường có ( I you we they he she it ) và theo sau là các động từ
+* Whose: của ai, phía sau thường có danh từ
+* That chỉ dùng trong mệnh đề xác định
+
+- Tính từ thường đứng trước bổ nghĩa cho danh từ, sau động từ tobe để mô tả cho đối tượng được nhắc đến

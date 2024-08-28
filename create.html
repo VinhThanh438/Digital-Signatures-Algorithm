@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, 
+    initial-scale=1.0">
+    <title>DSA</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    <div id="main">
+        <img src="./imgs/background.jpg" width="100%" 
+        height="703">
+        <div id="main_menu">
+            <div id="menu" style="height: 500px;">
+                <h2 class="title">Phát sinh chữ ký</h2>
+                <div style="display: flex; align-items: 
+                center; justify-content: space-between;">
+                    <label for="message1">Văn bản ký: </label>
+                    <textarea class="message1" id="message1" 
+                    cols="30" rows="5" 
+                    style="background-color: white; 
+                    padding: 8px; margin: 0 8px 0 8px;" 
+                    placeholder="Văn bản ký...."></textarea>
+                    <input type="file" id="file-input3" 
+                    accept=".txt" style="display:none;" 
+                    onchange="readTextFromFile1()"/>
+                    <label for="file-input3" 
+                    class="button">File</label>
+                </div>
+                <button class="button" onclick="createSignature()">
+                    Phát sinh chữ ký</button>
+                <div style="display: flex; justify-content: space-around;">
+                    <div>
+                        <div class="bottom2">
+                            <label for="hash1">Hàm băm: </label>
+                            <textarea class="hash1" id="hash1" 
+                            cols="30" rows="3" 
+                            style="background-color: white; 
+                            padding: 8px; margin-left: 4px;" 
+                            placeholder="Hàm băm..."></textarea>
+                        </div>
+                        <div class="bottom2">
+                            <label for="signature1">Chữ ký: </label>
+                            <textarea class="signature1" 
+                            id="signature1" cols="30" rows="5" 
+                            style="background-color: white; 
+                            padding: 8px; margin-top: 8px; 
+                            margin-left: 4px;" 
+                            placeholder="Chữ ký..."></textarea>
+                        </div>
+                    </div>
+                    <div class="btns">
+                        <button class="button" 
+                        onclick="transfer()">Chuyển</button>
+                        <button class="button" 
+                        onclick="saveFile()">Lưu</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="menu" style="height: 500px; width: 36%;">
+                <h2 class="title">Kiểm tra chữ ký</h2>
+                <div class="" style="display: flex; 
+                align-items: center; justify-content: 
+                space-between; width: 90%;">
+                    <label for="message2">Văn bản ký: </label>
+                    <textarea class="message2" id="message2" 
+                    cols="30" rows="5" 
+                    style="background-color: white; 
+                    padding: 8px;" 
+                    placeholder="Văn bản ký..."></textarea>
+                    <input type="file" 
+                    id="file-input1" accept=".txt" 
+                    style="display:none;" 
+                    onchange="readTextFromFile('message')"/>
+                    <label for="file-input1" 
+                    class="button">File văn bản</label>
+                </div>
+                <div class="" style="display: flex; align-items: 
+                center; justify-content: space-between; width: 90%;">
+                    <label for="signature2">Chữ ký: </label>
+                    <textarea class="signature2" id="signature2" 
+                    cols="30" rows="5" 
+                    style="background-color: white; padding: 8px; 
+                    margin-left: 27px;"
+                    placeholder="Chữ ký..."></textarea>
+                    <input type="file" id="file-input2" accept=".txt" 
+                    style="display:none;" 
+                    onchange="readTextFromFile('signature')"/>
+                    <label for="file-input2" 
+                    class="button">File</label>
+                </div>
+                <button class="button" style="margin-left: 12px;"
+                onclick="checkMessage()">Kiểm tra chữ ký</button>
+                <div class="bottom1">
+                    <label for="hash2">Hàm băm: </label>
+                    <textarea class="hash2" id="hash2" 
+                    cols="36" rows="3" 
+                    style="background-color: white; 
+                    padding: 8px" placeholder="Hàm băm..."></textarea>
+                </div>
+                <div class="bottom1">
+                    <label for="result">Thông báo: </label>
+                    <textarea class="result" 
+                    id="result" cols="36" rows="3" 
+                    style="background-color: white; 
+                    padding: 8px" placeholder="Thông báo..."></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./DSS_handle.js"></script>
+</body>
+</html>
